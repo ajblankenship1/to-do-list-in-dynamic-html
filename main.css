@@ -1,0 +1,25 @@
+section{
+    margin: auto;
+    max-width: 1200px;
+    
+}
+
+label{
+    display: block;
+}
+
+input{
+    display: inline-block;
+}
+
+h1, h2 ,p, form, ul{
+    text-align: center;
+}
+
+p, button{
+    display: inline-block;
+}
+
+ul{
+    list-style-type: none;
+}
